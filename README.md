@@ -1,3 +1,1 @@
-# angular-uhdbll
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-uhdbll)
+Simple shopping cart for angular
